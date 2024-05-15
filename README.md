@@ -54,6 +54,12 @@
 
 </td></tr></table>  
 
+<br/>
+
+<div align="center">
+<img src="https://www.codewars.com/users/littlebobr/badges/large" align="center" />
+</div>  
+
 <br/>  
 
 
@@ -95,9 +101,7 @@
 
 <br/>
 
-<div align="center">
-<img src="https://www.codewars.com/users/littlebobr/badges/large" align="center" />
-</div>  
+
   
 
 <br/>  
