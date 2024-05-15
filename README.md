@@ -92,6 +92,12 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=pozetiv4iks&&style=flat-square" align="center" />
 </div>  
+
+<br/>
+
+<div align="center">
+<img src="https://www.codewars.com/users/littlebobr/badges/large" align="center" />
+</div>  
   
 
 <br/>  
