@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Stepan, a frontend freelance developer 👨‍💻 🚀</div>  
+### <div align="center">I'm Stepan, a Frontend developer 👨‍💻 🚀</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/pozetiv4iks/rsschool-cv)  
