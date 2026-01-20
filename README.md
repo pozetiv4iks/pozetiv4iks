@@ -12,7 +12,7 @@
 - 🌱I'm currently learning React  
   
 
-- ❓ Ask me about anything related to Python and related technologies.  
+- ❓ Ask me about anything related to JavaScript and related technologies.  
   
 
 <br/>  
