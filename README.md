@@ -15,9 +15,6 @@
 - ❓ Ask me about anything related to Python and related technologies.  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
 <br/>  
 
 
